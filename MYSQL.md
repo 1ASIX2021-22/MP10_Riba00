@@ -50,13 +50,15 @@ sudo apt install gh
 
 ![Selecció_365](https://user-images.githubusercontent.com/91245889/144230897-a4502ca6-742b-45e2-9fbb-4834a840f0d0.png)
 
-11- Hem de tenir el phpstorm i el valet instal·lats.
+11- Hem de tenir el PHPStorm i hem de poder obrir el projecte al PHPStorm.
 
+![Selecció_367](https://user-images.githubusercontent.com/91245889/144232522-a40cf5c1-0550-4aa6-9773-c7f3cb9c2fcf.png)
 
+12- També és recomanable instal·lar el valet, executem la comanda de la captura i fem clic amb Ctrl a la direcció que ens apareix. 
 
+![Selecció_369](https://user-images.githubusercontent.com/91245889/144233118-b9e8314e-b4d5-456a-a942-77b82d3e02df.png)
 
-
-
+Ara el que farem és arreglar l'error SQL. Hem de generar les dades necessàries per a que l'aplicació funcioni.
 
 
 
