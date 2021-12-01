@@ -24,6 +24,7 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githu
 ![Selecció_359](https://user-images.githubusercontent.com/91245889/144210738-50a68f9a-4331-4a7c-a5d1-c758974b4086.png)
 
 sudo apt update
+
 sudo apt install gh
 
 ![Selecció_360](https://user-images.githubusercontent.com/91245889/144210852-f67e158c-fbd0-49f6-914d-6a17e8661488.png)
@@ -37,13 +38,15 @@ sudo apt install gh
 
 ![Selecció_361](https://user-images.githubusercontent.com/91245889/144211650-52b6f84b-91ea-45ca-99c3-acaefb26c099.png)
 
-Ens surt que ens hem de fer un login
+Ens surt que ens hem de fer un login. Anem seguint els passos tal i com es veu a la captura fins que fem el logib.
 
+![Selecció_362](https://user-images.githubusercontent.com/91245889/144219189-33c390a3-0595-4ffe-8b96-ba8b0a098441.png)
 
+Ara, ja ens podrem descarregar el codi.
 
+![Selecció_363](https://user-images.githubusercontent.com/91245889/144219629-19b1037a-e98a-4353-9bba-d4d181547726.png)
 
-
-
+Un cop descarregat entrem a la carpeta
 
 
 
