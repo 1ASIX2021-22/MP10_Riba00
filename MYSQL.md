@@ -38,15 +38,27 @@ sudo apt install gh
 
 ![Selecció_361](https://user-images.githubusercontent.com/91245889/144211650-52b6f84b-91ea-45ca-99c3-acaefb26c099.png)
 
-Ens surt que ens hem de fer un login. Anem seguint els passos tal i com es veu a la captura fins que fem el logib.
+8- Ens surt que ens hem de fer un login. Anem seguint els passos tal i com es veu a la captura fins que fem el logib.
 
 ![Selecció_362](https://user-images.githubusercontent.com/91245889/144219189-33c390a3-0595-4ffe-8b96-ba8b0a098441.png)
 
-Ara, ja ens podrem descarregar el codi.
+9- Ara, ja ens podrem descarregar el codi.
 
 ![Selecció_363](https://user-images.githubusercontent.com/91245889/144219629-19b1037a-e98a-4353-9bba-d4d181547726.png)
 
-Un cop descarregat entrem a la carpeta
+10- Un cop descarregat entrem a la carpeta
+
+![Selecció_365](https://user-images.githubusercontent.com/91245889/144230897-a4502ca6-742b-45e2-9fbb-4834a840f0d0.png)
+
+11- Hem de tenir el phpstorm i el valet instal·lats.
+
+
+
+
+
+
+
+
 
 
 
