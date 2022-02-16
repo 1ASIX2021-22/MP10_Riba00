@@ -58,7 +58,11 @@ sudo apt install gh
 
 ![Selecció_369](https://user-images.githubusercontent.com/91245889/144233118-b9e8314e-b4d5-456a-a942-77b82d3e02df.png)
 
-Ara el que farem és arreglar l'error SQL. Hem de generar les dades necessàries per a que l'aplicació funcioni.
+Ara el que farem és arreglar l'error SQL. Hem de generar les dades necessàries per a que l'aplicació funcioni. Per fer-ho, fem clic dret a la carpeta del projecte > Find in Files > Escrivim "MYSQL". Ens troba a tots els llocs on es troba MYSQL fins que trobem la connexió on ens diu el port, el host, el user...
+
+![Selecció_499](https://user-images.githubusercontent.com/91245889/154261200-8e2a66d8-e495-4233-9987-01a0cd65b52d.png)
+
+
 
 
 
