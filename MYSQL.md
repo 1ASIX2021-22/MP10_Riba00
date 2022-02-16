@@ -62,6 +62,16 @@ Ara el que farem és arreglar l'error SQL. Hem de generar les dades necessàries
 
 ![Selecció_499](https://user-images.githubusercontent.com/91245889/154261200-8e2a66d8-e495-4233-9987-01a0cd65b52d.png)
 
+Editem el fitxer /etc/hosts per a afegir el host mysql. Fem Ctrl + k + x per a guardar els canvis.
+
+![Selecció_500](https://user-images.githubusercontent.com/91245889/154262889-8afe23cb-feb0-46e3-acbc-01e2ee419439.png)
+
+Ho podem comprovar fent un ping a mysql per a veure que reconeix el host.
+
+![Selecció_501](https://user-images.githubusercontent.com/91245889/154263094-788b03e2-b9d3-4a5c-a82c-25f339ae4dfc.png)
+
+
+
 
 
 
