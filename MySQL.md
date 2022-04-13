@@ -1,35 +1,40 @@
-<b>1- </b>
+Instalacio mysql per a php i laravel
+
+
+
+
+<b>1- </b>Primer que tot, instal·lar el servidor mysql, amb la següent comanda.
 
 
 ![Selecció_556](https://user-images.githubusercontent.com/91245889/162403647-c48cdc15-975a-4ab1-b83b-12bf4eb88c52.png)
 
-<b>2- </b>
+<b>2- </b>Ens dona error de permisos i anem a solucionar-ho.
 
 
 ![Selecció_557](https://user-images.githubusercontent.com/91245889/162404259-1173bf20-52b3-4a0c-96a5-0d54ebda3d39.png)
 
 
-<b>3- </b>
+<b>3- </b>El fitxer debian.conf ens mostra un usuari i una contrasenya per defecte.
 
 
 ![Selecció_558](https://user-images.githubusercontent.com/91245889/162404264-1c7741f4-168c-4413-bf57-72f71b476141.png)
 
-<b>4- </b>
+<b>4- </b>Introduim l'usuari i la contrasenya per a veure si tenim permisos i ja estariem dintre.
 
 ![Selecció_559](https://user-images.githubusercontent.com/91245889/162404280-6a20dda6-e581-4c94-a7df-ab1594c9c615.png)
 
 
-<b>5- </b>
+<b>5- </b>Un cop dintre, creem una base de dades.
 
 ![Selecció_560](https://user-images.githubusercontent.com/91245889/162404308-116a015c-ec02-4f45-b85c-d241a2ef429f.png)
 
 
-<b>6- </b>
+<b>6- </b>Comprovem que s'ha creat correctament.
 
 
 ![Selecció_561](https://user-images.githubusercontent.com/91245889/162404326-1f31c0f1-77c2-4a1e-935c-97bb7b02fbbe.png)
 
-<b>7- </b>
+<b>7- </b>Seleccionem la base de dades creada.
 
 
 ![Selecció_562](https://user-images.githubusercontent.com/91245889/162404344-8e071ed5-7e83-4bd1-9e72-eb2b0adb5af0.png)
