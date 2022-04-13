@@ -39,55 +39,52 @@ Instalacio mysql per a php i laravel
 
 ![Selecció_562](https://user-images.githubusercontent.com/91245889/162404344-8e071ed5-7e83-4bd1-9e72-eb2b0adb5af0.png)
 
-<b>8- </b>
-
+<b>8- </b> Per a crear una taula hem d'introduir el nom i entre parèntesis els camps amb el seu corresponent tipus.
 
 ![Selecció_563](https://user-images.githubusercontent.com/91245889/162404382-7ab574c4-1602-49a8-a0c8-6e84747d3957.png)
 
-<b>9- </b>
+<b>9- </b>Ja tindriem creada la taula.
 
 
 ![Selecció_564](https://user-images.githubusercontent.com/91245889/162404406-76f447a4-82f1-431d-bf87-f6bb8af514c5.png)
 
+<b>10- </b>El pas següent és descarregar el mysql Workbench.
+
+![Selecció_565](https://user-images.githubusercontent.com/91245889/163164029-7453ad51-f6db-4c95-9b35-6342c6e826ee.png)
 
 
-<b>10- </b>
+<b>11- </b>Per a poder instalar-lo necessitem aquests dos fitxers.
 
-![Selecció_565](https://user-images.githubusercontent.com/91245889/162404455-aaf63257-6338-4e40-ade4-3bb02e88dcac.png)
-
-
-<b>11- </b>
-
-![Selecció_566](https://user-images.githubusercontent.com/91245889/162404461-45895392-f074-4397-b8b5-4eef8560b5ac.png)
+![Selecció_566](https://user-images.githubusercontent.com/91245889/163164240-99ea1f6e-b47b-4442-aa5d-e03b7a814d9e.png)
 
 
 
-<b>12- </b>
+
+<b>12- </b>Comprovem que s'han baixat correctament.
 
 ![Selecció_567](https://user-images.githubusercontent.com/91245889/162404491-7640c694-5eca-478d-9759-a56a09a0ecfa.png)
 
 
-<b>13- </b>
+<b>13- </b>Instalem el primer paquet.
 
 ![Selecció_568](https://user-images.githubusercontent.com/91245889/162404526-bab34070-447b-4c5b-80a1-fd576c03a60c.png)
 
 
-<b>14- </b>
+<b>14- </b>Després el segon paquet.
 
 ![Selecció_569](https://user-images.githubusercontent.com/91245889/162404535-f3fa5644-3444-4df6-b284-c8ab7a9dbbcf.png)
 
 
-<b>15- </b>
-
+<b>15- </b>Podem comprovar que el MySQL Workbech s'ha instal·lat correctament, però no inicia ja que li falten dependències.
 
 ![Selecció_570](https://user-images.githubusercontent.com/91245889/162404547-fee4f15c-87d1-4944-bd91-0df87a63d2f2.png)
 
-<b>16- </b>
+<b>16- </b>Amb la següent comanda podem veure els paquets de dependències que falten.
 
 
 ![Selecció_571](https://user-images.githubusercontent.com/91245889/162404566-6b91209c-ee7d-47b0-9702-f01cc2f0edd8.png)
 
-<b>17- </b>
+<b>17- </b>Les instalem per al correcte funcionament del MySQL Workbench.
 
 
 ![Selecció_572](https://user-images.githubusercontent.com/91245889/162404574-bf883cfc-962d-47d2-9844-a34d6ca9570f.png)
