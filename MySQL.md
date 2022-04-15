@@ -89,22 +89,17 @@ Instalacio mysql per a php i laravel
 
 ![Selecció_572](https://user-images.githubusercontent.com/91245889/162404574-bf883cfc-962d-47d2-9844-a34d6ca9570f.png)
 
-<b>18- </b>
+<b>18- </b> També realitzarem aquest acomanda per a corregir temes de dependències.
 
 
 ![Selecció_573](https://user-images.githubusercontent.com/91245889/162404584-d4de4363-fa31-4081-b3dc-e44eff002881.png)
 
-<b>19- </b>
-
-![Selecció_574](https://user-images.githubusercontent.com/91245889/162404602-08e1f481-5d92-4268-8ac3-56411257b7de.png)
-
-
-<b>20- </b>
+<b>19- </b>Un cop realitzats tots els passos anteriors i haver corregit els errors, ja hauriem de poder accedir al MySQL Workbench.
 
 ![Selecció_575](https://user-images.githubusercontent.com/91245889/162404626-758a74b6-85a2-4d24-b1a9-cfd467cea0c5.png)
 
 
-<b>21- </b>
+<b>20- </b>Dintre del MySQL Workbench, de moment no tenim accés ja que hem de posar l'usuari i la contrasenya que hem vist anteriorment.
 
 ![Selecció_576](https://user-images.githubusercontent.com/91245889/162404642-d433b58b-e083-4a78-943e-c9e227b38089.png)
 
