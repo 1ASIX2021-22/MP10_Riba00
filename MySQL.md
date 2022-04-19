@@ -104,151 +104,151 @@ Instalacio mysql per a php i laravel
 ![Selecció_576](https://user-images.githubusercontent.com/91245889/162404642-d433b58b-e083-4a78-943e-c9e227b38089.png)
 
 
-<b>22- </b>Ja tindriem el MySQL Workbench configurat i podem accedir a la base de dades "tasques" que haviem creat anteriorment.
+<b>21- </b>Ja tindriem el MySQL Workbench configurat i podem accedir a la base de dades "tasques" que haviem creat anteriorment.
 
 ![Selecció_577](https://user-images.githubusercontent.com/91245889/162404667-31c17f0d-cd37-4255-a314-75c474a5199b.png)
 
 
-<b>23- </b>A continuació obrirem el DataGrip i el PhpStorm, que tots dos es trobem dintre el paquet de ToolBox.
+<b>22- </b>A continuació obrirem el DataGrip i el PhpStorm, que tots dos es trobem dintre el paquet de ToolBox.
 
 
 ![Selecció_578](https://user-images.githubusercontent.com/91245889/162404676-d98c0760-0ad4-4fbe-9631-18f15d19d888.png)
 
-<b>24- </b>Obrirem el PhpStorm i a la part dreta veurem que posa "Database", fem clic. Fem clic a afegir nous Data Sources i seleccionem "MySQL".
+<b>23- </b>Obrirem el PhpStorm i a la part dreta veurem que posa "Database", fem clic. Fem clic a afegir nous Data Sources i seleccionem "MySQL".
 
 ![Selecció_579](https://user-images.githubusercontent.com/91245889/162404692-b84b3022-0dc7-4952-b6ef-3be9556e34d1.png)
 
 
-<b>25- </b>Ens diu que fan falta fitxers de drivers, els descarreguem.
+<b>24- </b>Ens diu que fan falta fitxers de drivers, els descarreguem.
 
 ![Selecció_580](https://user-images.githubusercontent.com/91245889/162404764-d98bc84e-f3e8-4ea0-a83c-d914f7f12ae2.png)
 
 
-<b>26- </b>Tornem a copiar l'usuari i la contrasenya obtinguda al fitxer debian.conf, tal i com hem fet anteriorment.
+<b>25- </b>Tornem a copiar l'usuari i la contrasenya obtinguda al fitxer debian.conf, tal i com hem fet anteriorment.
 
 ![Selecció_581](https://user-images.githubusercontent.com/91245889/162404783-952578c5-c15a-411a-8596-7047686f5fe8.png)
 
 
-<b>27- </b>Realitzem una prova de connexió i tot funciona correctament.
+<b>26- </b>Realitzem una prova de connexió i tot funciona correctament.
 
 ![Selecció_582](https://user-images.githubusercontent.com/91245889/162404821-f4ede74b-51ce-4f44-8ea9-718d570e1534.png)
 
 
-<b>28- </b>Ja tenim accés a la base de dades i seleccionem "tasques" com a esquema.
+<b>27- </b>Ja tenim accés a la base de dades i seleccionem "tasques" com a esquema.
 
 
 ![Selecció_583](https://user-images.githubusercontent.com/91245889/162404829-a45890f1-3de8-46c2-a25d-ec432c39418f.png)
 
-<b>29- </b>Afegim un registre de tasca i fem "Submit" per a pujar-la al servidor.
+<b>28- </b>Afegim un registre de tasca i fem "Submit" per a pujar-la al servidor.
 
 ![Selecció_584](https://user-images.githubusercontent.com/91245889/162404875-f4ea4f54-c266-43d8-b3fc-f562ad219425.png)
 
 
-<b>30- </b>Podem observar com també s'ha creat al MySQL.
+<b>29- </b>Podem observar com també s'ha creat al MySQL.
 
 ![Selecció_585](https://user-images.githubusercontent.com/91245889/162404891-0f3b3fbe-21ec-4256-9b5f-7f206b31413e.png)
 
 
-<b>31- </b>Ara toca el torn del DataGrip, entrem al programa.
+<b>30- </b>Ara toca el torn del DataGrip, entrem al programa.
 
 ![Selecció_720](https://user-images.githubusercontent.com/91245889/162404925-cb4cfb4d-073e-4ecb-80aa-eed02a3deb15.png)
 
 
-<b>32- </b>En movem a la carpeta Code, cadascú al seu usuari, i creem la carpeta "PHP_PDO" i entrem dintre.
+<b>31- </b>En movem a la carpeta Code, cadascú al seu usuari, i creem la carpeta "PHP_PDO" i entrem dintre.
 
 ![Selecció_721](https://user-images.githubusercontent.com/91245889/162404936-21687201-cb41-4ea3-9a54-71791553b674.png)
 
-<b>33- </b>Obrim el phpstorm però no ens deixa.
+<b>32- </b>Obrim el phpstorm però no ens deixa.
 
 ![Selecció_722](https://user-images.githubusercontent.com/91245889/162404968-2c064f62-4a5b-408c-99d3-b9e9d3f736b1.png)
 
 
-<b>34- </b>Per a solucionar-ho, anem als Settings de ToolBox, i tocarem coses de la shell per a poder obrir PhpStorm.
+<b>33- </b>Per a solucionar-ho, anem als Settings de ToolBox, i tocarem coses de la shell per a poder obrir PhpStorm.
 
 
 ![Selecció_723](https://user-images.githubusercontent.com/91245889/162404976-b517923f-f161-41fc-812f-5e358b69bf90.png)
 
-<b>35- </b>Seleccionarem alguna ruta que estigui al path.
+<b>34- </b>Seleccionarem alguna ruta que estigui al path.
 
 ![Selecció_724](https://user-images.githubusercontent.com/91245889/162404997-0b191c70-33b6-43a4-91dd-ff67bb28710e.png)
 
 
-<b>36- </b>Aqui ja tindriem els executables per al PhpStorm. També s'ha d'afegir la ruta aquesta al path.
+<b>35- </b>Aqui ja tindriem els executables per al PhpStorm. També s'ha d'afegir la ruta aquesta al path.
 
 ![Selecció_725](https://user-images.githubusercontent.com/91245889/162405017-25f4ff4e-7ba4-4e60-8623-708ab6265f60.png)
 
-<b>37- </b>Afegim un nou path al fitxer.
+<b>36- </b>Afegim un nou path al fitxer.
 
 ![Selecció_726](https://user-images.githubusercontent.com/91245889/162405070-72566ff2-4325-40e5-8548-5b3c529bdcc1.png)
 
-<b>39- </b>Podem comprovar com ja ho tenim configurat i al executar la comanda "phpstorm ." ja ens obri el programa.
+<b>37- </b>Podem comprovar com ja ho tenim configurat i al executar la comanda "phpstorm ." ja ens obri el programa.
 
 
 ![Selecció_728](https://user-images.githubusercontent.com/91245889/162405105-d93cfbe7-facb-47a7-945a-e51f423a83dd.png)
 
-<b>40- </b>
+<b>38- </b>
 
 ![Selecció_729](https://user-images.githubusercontent.com/91245889/162405115-4a5aeca1-4a2f-47d6-a38b-884decb86d1d.png)
 
 
-<b>41- </b>
+<b>39- </b>
 
 
 ![Selecció_730](https://user-images.githubusercontent.com/91245889/162405127-ff1ccd5a-076e-40ac-9679-9d5e2218fd52.png)
 
-<b>42- </b>
+<b>40- </b>
 
 ![Selecció_731](https://user-images.githubusercontent.com/91245889/162405134-a2559395-543d-4006-92ea-963f3efe90b0.png)
 
 
-<b>43- </b>
+<b>41- </b>
 
 ![Selecció_732](https://user-images.githubusercontent.com/91245889/162405147-e152382b-dff6-475d-8b0b-63f6b7e633df.png)
 
 
-<b>44- </b>
+<b>42- </b>
 
 ![Selecció_733](https://user-images.githubusercontent.com/91245889/162405181-f79dd88a-5aa9-4ed3-8540-cac6151a28c1.png)
 
 
 
-<b>45- </b>
+<b>43- </b>
 
 ![Selecció_734](https://user-images.githubusercontent.com/91245889/162405217-8ccc1f21-cc3d-4de4-b84a-24383ffaf674.png)
 
 
-<b>46- </b>
+<b>44- </b>
 
 ![Selecció_735](https://user-images.githubusercontent.com/91245889/162405228-2747b445-f167-467f-834e-62876bf03a3f.png)
 
 
-<b>47- </b>
+<b>45- </b>
 
 ![Selecció_736](https://user-images.githubusercontent.com/91245889/162405240-91b32fe8-e798-470c-989c-c0e3fd4f43f5.png)
 
 
-<b>48- </b>
+<b>46- </b>
 
 ![Selecció_737](https://user-images.githubusercontent.com/91245889/162405278-491ff3f6-0f01-4e2a-b20d-76b411a64bd6.png)
 
 
-<b>49- </b>
+<b>47- </b>
 
 
 ![Selecció_738](https://user-images.githubusercontent.com/91245889/162405316-24d806f0-c0db-4dad-bb25-2835db4a6df3.png)
 
 
 
-<b>50- </b>
+<b>48- </b>
 
 ![Selecció_739](https://user-images.githubusercontent.com/91245889/162405326-1cc2c5a9-567b-432b-8e86-fed4787d472a.png)
 
 
-<b>51- </b>
+<b>49- </b>
 
 ![Selecció_740](https://user-images.githubusercontent.com/91245889/162405336-2040a2ed-e920-4504-82d9-32f305a6aef8.png)
 
 
-<b>52- </b>
+<b>50- </b>
 
 ![Selecció_741](https://user-images.githubusercontent.com/91245889/162405345-abdec36d-a59d-4748-be34-67ae0a3411ff.png)
