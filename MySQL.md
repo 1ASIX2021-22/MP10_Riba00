@@ -1,4 +1,4 @@
-Instalacio mysql per a php i laravel
+<h2>Instalacio mysql per a php i laravel</h2>
 
 
 
@@ -186,69 +186,58 @@ Instalacio mysql per a php i laravel
 
 ![Selecció_728](https://user-images.githubusercontent.com/91245889/162405105-d93cfbe7-facb-47a7-945a-e51f423a83dd.png)
 
-<b>38- </b>
+<b>38- </b>Un cop obert el programa, a l'esquerra tenim la carpeta del projecte i el que he de fer és crear el fitxer "index.php".
 
 ![Selecció_729](https://user-images.githubusercontent.com/91245889/162405115-4a5aeca1-4a2f-47d6-a38b-884decb86d1d.png)
 
 
-<b>39- </b>
+<b>39- </b>Un cop creat el fitxer, el que farem es canviar la mida de la lletra, ja que és molt petita.
 
 
 ![Selecció_730](https://user-images.githubusercontent.com/91245889/162405127-ff1ccd5a-076e-40ac-9679-9d5e2218fd52.png)
 
-<b>40- </b>
+<b>40- </b>Per a canviar anem a File > Settings > Posem al buscador "wheel" i activem la casella que ens surt.
 
 ![Selecció_731](https://user-images.githubusercontent.com/91245889/162405134-a2559395-543d-4006-92ea-963f3efe90b0.png)
 
 
-<b>41- </b>
+<b>41- </b>Fem un echo de "Hello World" per a veure que el codi funciona correctament.
 
 ![Selecció_732](https://user-images.githubusercontent.com/91245889/162405147-e152382b-dff6-475d-8b0b-63f6b7e633df.png)
 
 
-<b>42- </b>
+<b>42- </b>Si ho executem de la terminal podem observar que funciona corretament.
 
 ![Selecció_733](https://user-images.githubusercontent.com/91245889/162405181-f79dd88a-5aa9-4ed3-8540-cac6151a28c1.png)
 
 
 
-<b>43- </b>
+<b>43- </b>Ara, realitzarem una comanda per a veure si podem obtenir les tasques de la base de dades que hem creat anteriorment.
 
 ![Selecció_734](https://user-images.githubusercontent.com/91245889/162405217-8ccc1f21-cc3d-4de4-b84a-24383ffaf674.png)
 
 
-<b>44- </b>
+<b>44- </b>Ho posem tot dintre d'un TRY i capturem els possibles errors amb CATCH.
 
 ![Selecció_735](https://user-images.githubusercontent.com/91245889/162405228-2747b445-f167-467f-834e-62876bf03a3f.png)
 
 
-<b>45- </b>
+<b>45- </b>Ens hem pogut conectar, però fa falta que puguem utilitzar aquest PDO.
 
 ![Selecció_736](https://user-images.githubusercontent.com/91245889/162405240-91b32fe8-e798-470c-989c-c0e3fd4f43f5.png)
 
 
-<b>46- </b>
+<b>46- </b>Ens guardem el PDO i realitzem una consulta SQL, com la que es veu a la captura.
 
 ![Selecció_737](https://user-images.githubusercontent.com/91245889/162405278-491ff3f6-0f01-4e2a-b20d-76b411a64bd6.png)
 
-
-<b>47- </b>
-
-
-![Selecció_738](https://user-images.githubusercontent.com/91245889/162405316-24d806f0-c0db-4dad-bb25-2835db4a6df3.png)
-
-
-
-<b>48- </b>
-
-![Selecció_739](https://user-images.githubusercontent.com/91245889/162405326-1cc2c5a9-567b-432b-8e86-fed4787d472a.png)
-
-
-<b>49- </b>
+<b>49- </b>Aqui tindriem un exemple de codi i es complementa amb el punt següent.
 
 ![Selecció_740](https://user-images.githubusercontent.com/91245889/162405336-2040a2ed-e920-4504-82d9-32f305a6aef8.png)
 
 
-<b>50- </b>
+<b>50- </b>Creem un fitxer que es digui "Tasca.php" i posem el següent codi.
 
 ![Selecció_741](https://user-images.githubusercontent.com/91245889/162405345-abdec36d-a59d-4748-be34-67ae0a3411ff.png)
+
+Arribats aqui, ja hauriem finalitzat la instal·lació de MySQL i hem porbat que funciona correctament.
